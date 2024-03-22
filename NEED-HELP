@@ -1,0 +1,7 @@
+echo "# Contributeur-la-symphonie" >> README.md
+git init
+git add README.Dadkilll02
+git commit -f "HELP"
+git branch -M main
+git remote add origin https://github.com/dadkilll02/Contributeur-la-symphonie.git
+git push -u origin main
